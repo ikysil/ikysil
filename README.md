@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Illya.
+
+Experienced IT Architect and Software Developer On a Quest for Boundaries in IT Systems
+
+Turning tea ☕ into code since '88.
+
 <!--
 **ikysil/ikysil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
