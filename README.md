@@ -6,6 +6,8 @@ Experienced IT Architect and Software Developer On a Quest for Boundaries in IT 
 
 Turning tea ☕ into code since '88.
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ikysil)](https://github.com/ikysil)
+
 <!--
 **ikysil/ikysil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
