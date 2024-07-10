@@ -8,6 +8,8 @@ Turning tea ☕ into code since '88.
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ikysil)](https://github.com/ikysil)
 
+[![committers.top badge](https://user-badge.committers.top/luxembourg/ikysil.svg)](https://user-badge.committers.top/luxembourg/ikysil)
+
 <!--
 **ikysil/ikysil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
